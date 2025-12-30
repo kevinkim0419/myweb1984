@@ -1,0 +1,12 @@
+#id1 {
+  background: orange;
+  color: blue;
+  font-size: 30px;
+  text-align: center;
+  display: block;
+}
+#id2,
+#id3 {
+  text-align: center; 
+/*   이미지 부모요소에 가운데 속성 부여*/
+}
